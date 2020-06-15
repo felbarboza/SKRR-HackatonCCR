@@ -34,4 +34,5 @@ DEV: https://linkedin/in/felbarboza
 DEV: https://www.linkedin.com/in/breno-morais-79b328167/
 DEV: https://www.linkedin.com/in/camilasantos17
 UI: https://github.com/gabrielbugarelli
+BUSINESS: https://www.linkedin.com/in/leonardo-rezende-6710221b0/
 
